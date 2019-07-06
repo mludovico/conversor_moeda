@@ -1,6 +1,6 @@
 # conversor_moeda
 
-Conversor de moedas real x dolar x euro
+Conversor de moedas real x dolar x euro. App 3 Curso Flutter
 
 ## Getting Started
 
