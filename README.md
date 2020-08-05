@@ -1,6 +1,7 @@
 # conversor_moeda
 
 Conversor de moedas real x dolar x euro. App 3 Curso Flutter
+Alterado para consultar a API do banco central em vez da mostrada no curso.
 
 ## Getting Started
 
